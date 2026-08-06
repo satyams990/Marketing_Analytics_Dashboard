@@ -113,7 +113,7 @@ Built a robust Power BI data model using:
 
 ### Conversion Analysis
 
-![Conversion](Conversion.png)
+![Conversion](_Conversion.png)
 
 -   Monthly Conversion Trends
 -   Product-wise Conversion
