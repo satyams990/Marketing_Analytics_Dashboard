@@ -113,7 +113,7 @@ Built a robust Power BI data model using:
 
 ### Conversion Analysis
 
-![Overview](Conversion.png)
+![Conversion](Conversion.png)
 
 -   Monthly Conversion Trends
 -   Product-wise Conversion
@@ -121,7 +121,7 @@ Built a robust Power BI data model using:
 
 ### Customer Engagement
 
-![Overview](Social_Media_Details.png)
+![Social Media Details](Social_Media_Details.png)
 
 -   Views
 -   Clicks
@@ -130,7 +130,7 @@ Built a robust Power BI data model using:
 
 ### Customer Feedback
 
-![Overview](Customer_Review_Details.png)
+![Customer Review Details](Customer_Review_Details.png)
 
 -   Rating Distribution
 -   Sentiment Distribution
