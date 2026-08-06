@@ -79,13 +79,6 @@ Customer reviews were enriched using **Python** and **NLTK VADER**.
 -   Generated sentiment buckets
 -   Exported enriched dataset for Power BI
 
-### Python Libraries
-
--   Pandas
--   NLTK
--   PyODBC
--   SQLAlchemy
-
 ------------------------------------------------------------------------
 
 ## Step 4 --- Power BI Data Modeling
