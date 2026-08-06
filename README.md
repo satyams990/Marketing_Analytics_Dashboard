@@ -101,6 +101,8 @@ Built a robust Power BI data model using:
 
 ## Step 5 --- Dashboard Development
 
+![Overview](Overview.png)
+
 ### Executive KPIs
 
 -   Conversion Rate
